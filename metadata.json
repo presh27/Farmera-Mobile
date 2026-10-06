@@ -1,0 +1,6 @@
+{
+  "name": "Farmera",
+  "description": "Farmera - Closer to the source. Farm-to-market commerce connecting verified Nigerian farmers and food producers with households, restaurants, and resellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
